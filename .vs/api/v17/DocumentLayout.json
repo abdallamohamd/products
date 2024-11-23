@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\mohamed mahdy\\c#\\api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38527BBE-B452-4FE7-AA85-8FCDBCB6CCB7}|api\\api.csproj|e:\\mohamed mahdy\\c#\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38527BBE-B452-4FE7-AA85-8FCDBCB6CCB7}|api\\api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38527BBE-B452-4FE7-AA85-8FCDBCB6CCB7}|api\\api.csproj|e:\\mohamed mahdy\\c#\\api\\api\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38527BBE-B452-4FE7-AA85-8FCDBCB6CCB7}|api\\api.csproj|solutionrelative:api\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38527BBE-B452-4FE7-AA85-8FCDBCB6CCB7}|api\\api.csproj|e:\\mohamed mahdy\\c#\\api\\api\\migrations\\20241101183732_app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38527BBE-B452-4FE7-AA85-8FCDBCB6CCB7}|api\\api.csproj|solutionrelative:api\\migrations\\20241101183732_app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38527BBE-B452-4FE7-AA85-8FCDBCB6CCB7}|api\\api.csproj|e:\\mohamed mahdy\\c#\\api\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38527BBE-B452-4FE7-AA85-8FCDBCB6CCB7}|api\\api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38527BBE-B452-4FE7-AA85-8FCDBCB6CCB7}|api\\api.csproj|e:\\mohamed mahdy\\c#\\api\\api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38527BBE-B452-4FE7-AA85-8FCDBCB6CCB7}|api\\api.csproj|solutionrelative:api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38527BBE-B452-4FE7-AA85-8FCDBCB6CCB7}|api\\api.csproj|e:\\mohamed mahdy\\c#\\api\\api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38527BBE-B452-4FE7-AA85-8FCDBCB6CCB7}|api\\api.csproj|solutionrelative:api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38527BBE-B452-4FE7-AA85-8FCDBCB6CCB7}|api\\api.csproj|e:\\mohamed mahdy\\c#\\api\\api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38527BBE-B452-4FE7-AA85-8FCDBCB6CCB7}|api\\api.csproj|solutionrelative:api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38527BBE-B452-4FE7-AA85-8FCDBCB6CCB7}|api\\api.csproj|e:\\mohamed mahdy\\c#\\api\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38527BBE-B452-4FE7-AA85-8FCDBCB6CCB7}|api\\api.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38527BBE-B452-4FE7-AA85-8FCDBCB6CCB7}|api\\api.csproj|e:\\mohamed mahdy\\c#\\api\\api\\model\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38527BBE-B452-4FE7-AA85-8FCDBCB6CCB7}|api\\api.csproj|solutionrelative:api\\model\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38527BBE-B452-4FE7-AA85-8FCDBCB6CCB7}|api\\api.csproj|e:\\mohamed mahdy\\c#\\api\\api\\model\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38527BBE-B452-4FE7-AA85-8FCDBCB6CCB7}|api\\api.csproj|solutionrelative:api\\model\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38527BBE-B452-4FE7-AA85-8FCDBCB6CCB7}|api\\api.csproj|e:\\mohamed mahdy\\c#\\api\\api\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38527BBE-B452-4FE7-AA85-8FCDBCB6CCB7}|api\\api.csproj|solutionrelative:api\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38527BBE-B452-4FE7-AA85-8FCDBCB6CCB7}|api\\api.csproj|e:\\mohamed mahdy\\c#\\api\\api\\model\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38527BBE-B452-4FE7-AA85-8FCDBCB6CCB7}|api\\api.csproj|solutionrelative:api\\model\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38527BBE-B452-4FE7-AA85-8FCDBCB6CCB7}|api\\api.csproj|e:\\mohamed mahdy\\c#\\api\\api\\dto\\supplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38527BBE-B452-4FE7-AA85-8FCDBCB6CCB7}|api\\api.csproj|solutionrelative:api\\dto\\supplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38527BBE-B452-4FE7-AA85-8FCDBCB6CCB7}|api\\api.csproj|e:\\mohamed mahdy\\c#\\api\\api\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38527BBE-B452-4FE7-AA85-8FCDBCB6CCB7}|api\\api.csproj|solutionrelative:api\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38527BBE-B452-4FE7-AA85-8FCDBCB6CCB7}|api\\api.csproj|e:\\mohamed mahdy\\c#\\api\\api\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38527BBE-B452-4FE7-AA85-8FCDBCB6CCB7}|api\\api.csproj|solutionrelative:api\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241101183732_app.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\api\\api\\Migrations\\20241101183732_app.cs",
+              "RelativeDocumentMoniker": "api\\Migrations\\20241101183732_app.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\api\\api\\Migrations\\20241101183732_app.cs",
+              "RelativeToolTip": "api\\Migrations\\20241101183732_app.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T18:37:36.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\api\\api\\appsettings.json",
+              "RelativeDocumentMoniker": "api\\appsettings.json",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\api\\api\\appsettings.json",
+              "RelativeToolTip": "api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-30T09:17:46.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "accountController.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\api\\api\\Controllers\\accountController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\accountController.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\api\\api\\Controllers\\accountController.cs",
+              "RelativeToolTip": "api\\Controllers\\accountController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAwwFEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T20:37:00.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\api\\api\\Program.cs",
+              "RelativeDocumentMoniker": "api\\Program.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\api\\api\\Program.cs",
+              "RelativeToolTip": "api\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwDMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T20:26:53.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "orderController.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\api\\api\\Controllers\\orderController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\orderController.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\api\\api\\Controllers\\orderController.cs",
+              "RelativeToolTip": "api\\Controllers\\orderController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowCAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T20:22:52.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "order.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\api\\api\\model\\order.cs",
+              "RelativeDocumentMoniker": "api\\model\\order.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\api\\api\\model\\order.cs",
+              "RelativeToolTip": "api\\model\\order.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T19:37:14.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "productController.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\api\\api\\Controllers\\productController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\productController.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\api\\api\\Controllers\\productController.cs",
+              "RelativeToolTip": "api\\Controllers\\productController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:52:28.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\api\\api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "api\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\api\\api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-30T09:18:50.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appuser.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\api\\api\\model\\appuser.cs",
+              "RelativeDocumentMoniker": "api\\model\\appuser.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\api\\api\\model\\appuser.cs",
+              "RelativeToolTip": "api\\model\\appuser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T20:34:34.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "supplierdto.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\api\\api\\dto\\supplierdto.cs",
+              "RelativeDocumentMoniker": "api\\dto\\supplierdto.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\api\\api\\dto\\supplierdto.cs",
+              "RelativeToolTip": "api\\dto\\supplierdto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:42:05.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "supplierController.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\api\\api\\Controllers\\supplierController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\supplierController.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\api\\api\\Controllers\\supplierController.cs",
+              "RelativeToolTip": "api\\Controllers\\supplierController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:38:24.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appcontext.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\api\\api\\model\\appcontext.cs",
+              "RelativeDocumentMoniker": "api\\model\\appcontext.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\api\\api\\model\\appcontext.cs",
+              "RelativeToolTip": "api\\model\\appcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T19:44:26.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "supplier.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\api\\api\\model\\supplier.cs",
+              "RelativeDocumentMoniker": "api\\model\\supplier.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\api\\api\\model\\supplier.cs",
+              "RelativeToolTip": "api\\model\\supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T19:37:14.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "product.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\api\\api\\model\\product.cs",
+              "RelativeDocumentMoniker": "api\\model\\product.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\api\\api\\model\\product.cs",
+              "RelativeToolTip": "api\\model\\product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T19:35:51.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "productdto.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\api\\api\\dto\\productdto.cs",
+              "RelativeDocumentMoniker": "api\\dto\\productdto.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\api\\api\\dto\\productdto.cs",
+              "RelativeToolTip": "api\\dto\\productdto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T08:20:30.752Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
